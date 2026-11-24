@@ -1,8 +1,8 @@
 # 24 November 2026 in One Image
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun)
-[![News Image 24 November](https://img.shields.io/badge/make.fun-News%20Image%2024%20November-green)](https://make.fun/c/news-image-20261124)
-[![Join via referral](https://img.shields.io/badge/make.fun-referral-orange)](https://make.fun/r/kh6903y0)
+[![make.fun](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/c/news-image-20261124)
+[![Rank](https://make.fun/badge/news-image-20261124/heruruben-hub/news-image-24-nov/rank.svg)](https://make.fun/c/news-image-20261124)
+[![Reward](https://make.fun/badge/news-image-20261124/heruruben-hub/news-image-24-nov/reward.svg)](https://make.fun/c/news-image-20261124)
 
 A newspaper-front-page illustration summing up the world's news of
 Tuesday 24 November 2026 — an entry for the
